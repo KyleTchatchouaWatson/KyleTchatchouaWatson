@@ -29,8 +29,8 @@
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletchatchouawatson" alt="kyletchatchouawatson" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kyletchatchouawatson">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+<a href="https://buymeacoffee.com/kyletchatchouawatson"target="blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" target="blank"/>
 </a>
 </p>
 </p>

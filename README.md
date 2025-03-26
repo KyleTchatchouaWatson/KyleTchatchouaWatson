@@ -15,9 +15,22 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>✒️ Recent Posts</h2>
+<ul>
+<li><a target="_blank" href="https://kylemadethis.netlify.app/">Calculator</a></li>
+<li><a target="_blank" href="https://valentinesdaycrush.netlify.app/">Valentine Site</a></li>
+<li><a target="_blank" href="https://letscountgtis.netlify.app/">Golf 7 Gti Counter</a></li>
+<li><a target="_blank" href="https://weatherwithkyle.netlify.app/">Weather Application</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/kyle tchatchoua watson" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/kyle-tchatchoua-watson/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kyletchatchouawatson&show_icons=true&locale=en" alt="kyletchatchouawatson" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyletchatchouawatson&" alt="kyletchatchouawatson" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyletchatchouawatson&show_icons=true&locale=en&layout=compact" alt="kyletchatchouawatson" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyletchatchouawatson" alt="kyletchatchouawatson" /></a></p>
+<h2>❤️ Support Me</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kyletchatchouawatson">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+</p>

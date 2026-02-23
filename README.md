@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kyle Tchatchoua Watson</h1>
-<p>Hi my name is Kyle im a software engineer in his last year but decided he likes full stack development so im planning to be both.</p>
+<p>Hi, my name is Kyle. I'm a software engineer in my final year, and I’ve discovered a passion for full-stack development, so I plan to pursue both areas.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
